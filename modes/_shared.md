@@ -76,12 +76,14 @@ Classify every offer into one of these types (or hybrid of 2):
 
 | Archetype | Key signals in JD |
 |-----------|-------------------|
-| AI Platform / LLMOps | "observability", "evals", "pipelines", "monitoring", "reliability" |
-| Agentic / Automation | "agent", "HITL", "orchestration", "workflow", "multi-agent" |
-| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "product manager" |
-| AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
-| AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
-| AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Senior/Principal TPM | "technical program manager", "TPM", "cross-functional", "releases", "program management", "engineering program" |
+| Senior PM (Technical/Platform/AI) | "product manager", "PRD", "roadmap", "discovery", "stakeholder", "product strategy", "platform PM" |
+| Program Director / VP Programs | "director of program", "VP program", "portfolio", "multi-program", "PMO", "program leadership" |
+| AI Strategy / Transformation Lead | "AI strategy", "transformation", "adoption", "enablement", "head of AI", "AI governance" |
+| Boutique Consulting Principal | "consultant", "advisory", "engagement manager", "practice lead", "client engagement", "digital transformation" |
+| Defense Contractor TPM/PM | "defense", "DoD", "federal", "clearance", "EVMS", "CMMI", "government", "military" |
+| Enterprise TAM / Strategic CS | "technical account manager", "customer success", "strategic accounts", "enterprise accounts", "TAM" |
+| AI Solutions Architect | "solutions architect", "architecture", "enterprise AI", "integration", "systems design", "client-facing AI" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 
